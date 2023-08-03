@@ -4,10 +4,11 @@
     font-family: 'Poppins', sans-serif;  
 }
 body{
-    background: linear-gradient(90deg, rgba(14,0,36,1) 0%, rgba(211,209,56,1) 69%);
+   background: linear-gradient(90deg, rgba(14,0,36,1) 0%, rgba(56,210,211,1) 0%);
     
 }
 .container{
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
    
     width:90%;
     max-width:400px;
